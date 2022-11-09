@@ -65,7 +65,7 @@
     <div class="container">
       <div class="hero-content">
         <h1>I'm <span class="typed" data-typed-items="Faiz Fadilah,seorang Pelajar"></span></h1>
-        <p>ProGamer</p>
+        <p>Programmer</p>
 
         <ul class="list-unstyled list-social">
           <li><a href="https://www.instagram.com/invites/contact/?i=41cic5n08mi7&utm_content=2x943qd"><i class="bi bi-instagram"></i></a></li>

@@ -382,6 +382,18 @@ https://templatemo.com/tm-557-grad-school
             </div>
           </div>
           <div class="item">
+            <img src="/index/assets/images/web-portofolio-murid/portofolio-mrifal.png" alt="">
+            <div class="down-content">
+              <h4>Muhamad Rifal Firdaus</h4>
+              <div class="author-image">
+                <img src="/index/assets/images/pfp-murid/pfp-mrifal.jpeg" alt="">
+              </div>
+              <div class="text-button-pay">
+                <a href="/ripal">Detail <i class="fa fa-angle-double-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
             <img src="/index/assets/images/web-portofolio-murid/portofolio-muhammad-andhika.png" alt="">
             <div class="down-content">
               <h4>Muhammad Andhika Saputra</h4>

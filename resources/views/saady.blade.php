@@ -172,7 +172,7 @@
 				<!-- <a href="#"><i class='bx bxl-linkedin' ></i></a>
 				<a href="#"><i class='bx bxl-facebook' ></i></a>
 				<a href="#"><i class='bx bxl-behance' ></i></a> -->
-				<a href="https://www.instagram.com/saadymuflih_/"><i class='bx bxl-instagram' ></i></a>
+				<a href="https://www.instagram.com/saady9255/"><i class='bx bxl-instagram' ></i></a>
 				<a href="https://github.com/SAADYMUFLIH"><i class='bx bxl-github'></i></a>
 				
 				<!-- <a href="#"><i class='bx bxl-dribbble' ></i></a> -->
